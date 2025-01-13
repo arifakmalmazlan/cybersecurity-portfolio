@@ -1,8 +1,10 @@
 ### Hi There 👨‍💻
 
 ### 'Arif Akmal Mazlan Portfolio 🦹‍♂️
-| <a href="https://www.linkedin.com/in/arif-akmal-mazlan-567599110/">Cybersecurity Enthusiast</a> |  
+| <a href="https://www.linkedin.com/in/arif-akmal-mazlan-567599110/">Cybersecurity Enthusiast</a> | 
+
 </br>
+
 ### 🚀 About Me
 Hi! I'm Arif Akmal Mazlan, a seasoned Network Infrastructure Engineer passionate about building secure, reliable, and scalable IT solutions. With expertise in networking, security, and project management, I aim to help businesses achieve operational excellence through innovative technology.
 
