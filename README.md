@@ -1,9 +1,10 @@
 ### Hi There 👨‍💻
 
 ### 'Arif Akmal Mazlan 🦹‍♂️
-| <a href="https://www.linkedin.com/in/arif-akmal-mazlan-567599110/">Cybersecurity Enthusiast </a>|  
+| <img align="left" alt="JoshMadakor LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.linkedin.com/in/arif-akmal-mazlan-567599110/">Cybersecurity Enthusiast </a>|  
 
-[![LinkedIn](assets/linkedin-logo.png)](https://linkedin.com/in/arifakmalmazlan)
+
+
 
 
 
