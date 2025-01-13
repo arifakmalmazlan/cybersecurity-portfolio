@@ -1,5 +1,14 @@
-## Hi There 👋
-<h2>🦹‍♂️ I'm 'Arif! <br/><a href="https://www.linkedin.com/in/arif-akmal-mazlan-567599110/">Cybersecurity Professional</a></h2>
+### Hi There 👨‍💻
+
+### 'Arif Akmal Mazlan 🦹‍♂️
+| <a href="https://www.linkedin.com/in/arif-akmal-mazlan-567599110/">Cybersecurity Enthusiast </a>|  
+
+[![LinkedIn](assets/linkedin-logo.png)](https://linkedin.com/in/arifakmalmazlan)
+
+
+
+
+<h2> I'm 'Arif! <br/><a href="https://www.linkedin.com/in/arif-akmal-mazlan-567599110/">Cybersecurity Professional</a></h2>
 
   
 ### About Me
